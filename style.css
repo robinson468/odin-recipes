@@ -2,3 +2,9 @@
 body {
     background-color: #00ffff;
 }
+
+.list {
+    background-color: #fff;
+    width: 250px;
+    
+}
